@@ -1,6 +1,6 @@
 {
   "name": "react-router-example",
-  "description": "Example React application with dynamic routing using React Router",
+  "description": "Example of React application with dynamic routing using React Router",
   "version": "1.0.0",
   "license": "MIT",
   "homepage": "https://risan.io/react-router-example",
