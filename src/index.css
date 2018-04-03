@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width: 1024px) {
+    .container {
+        max-width: 720px;
+    }
+}
+
+.login-container {
+    max-width: 500px;
+    margin: auto;
+}
+
+.fa {
+    margin-right: 5px;
+}
+
+.footer {
+    margin-top: auto;
+}
