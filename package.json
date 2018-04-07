@@ -3,7 +3,7 @@
   "description": "Example of React application with dynamic routing using React Router",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://risan.io/react-router-example/",
+  "homepage": "https://risan.io/react-router-example",
   "author": {
     "name": "Risan Bagja Pradana",
     "email": "risanbagja@gmail.com",
