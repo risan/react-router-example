@@ -5,7 +5,7 @@
 
 An example of React application with dynamic routing using [React Router](https://reacttraining.com/react-router/) library.
 
-Checkout and play around with the [demo here](https://risan.io/react-router-example).
+Checkout and play around with the [demo here](https://risan.io/react-router-example/).
 
 ![React Router Example](https://media.giphy.com/media/AF2bA2nQblLIJDt36b/source.gif)
 
